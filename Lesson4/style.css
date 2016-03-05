@@ -1,0 +1,35 @@
+body {
+	background: black;
+	color: white;
+	text-align: left;
+	background-image: url('311852306.jpg');
+}
+.test {
+	background: rgba(255,0,0,0.5);
+	border-width: 1px;
+	border-radius: 3px;
+	border: 4px double black;
+	margin: 0px auto;
+}
+div {
+	width: 60%;
+	background: rgba(0,0,0,0.5);
+	margin: 0px auto;
+
+}
+div h1 {
+	text-align: center;
+}
+div div {
+	display: inline;
+}
+	
+.photo {
+	width: 40%;
+	float: left;
+	border-top-left-radius: 50%;
+	border-bottom-right-radius: 50%;
+}
+.description {
+	width: 60%;
+}
